@@ -6,5 +6,5 @@
   "bracketSpacing": true,
   "jsxSingleQuote": true,
   "endOfLine": "crlf",
-  "plugins": ["prettier-plugin-organize-imports"]
+  "plugins": ["prettier-plugin-organize-imports" , "prettier-plugin-tailwindcss"]
 }
